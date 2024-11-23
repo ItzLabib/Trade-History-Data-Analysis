@@ -1,0 +1,4 @@
+Name: pandas.
+
+Version: 1.5.3
+Summary: Powerful data structures for data analysis, time series, and statistics
